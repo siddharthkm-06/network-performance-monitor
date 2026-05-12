@@ -1,0 +1,2 @@
+[2026-05-11 23:17:44] ALERT: Google DNS (8.8.8.8) — high latency: 150ms (threshold: 100ms)
+[2026-05-11 23:17:44] ALERT: Google DNS (8.8.8.8) — packet loss: 10% (threshold: 5%)

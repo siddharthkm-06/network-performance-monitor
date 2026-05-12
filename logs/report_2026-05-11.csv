@@ -1,0 +1,4 @@
+timestamp,host_name,ip,avg_latency_ms,packet_loss_percent,status
+11-05-2026 23:22,Google DNS,8.8.8.8,38,0,OK
+11-05-2026 23:22,Cloudflare DNS,1.1.1.1,150,0,ALERT
+11-05-2026 23:22,Broken Host,192.168.99.99,N/A,100,ALERT
